@@ -1,0 +1,12 @@
+{
+    "name": "node-red-email",
+    "description": "Researching on node-red email library",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_TRONGDAT.json",
+            "credentialsFile": "flows_TRONGDAT_cred.json"
+        }
+    }
+}
